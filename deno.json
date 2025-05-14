@@ -7,6 +7,7 @@
     "postinstall": "nuxt prepare"
   },
   "imports": {
+    "@vueuse/core": "npm:@vueuse/core@^13.2.0",
     "nuxt": "npm:nuxt@^3.17.3",
     "@ai-sdk/openai": "npm:@ai-sdk/openai@^1.3.22",
     "@ai-sdk/vue": "npm:@ai-sdk/vue@^1.0.0",
