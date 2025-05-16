@@ -1,4 +1,4 @@
 {
-  // https://nuxt.com/docs/guide/concepts/typescript
+  // deno supports typescript out of the box, but we can use the nuxt tsconfig for working alongside nuxt
   "extends": "./.nuxt/tsconfig.json"
 }
