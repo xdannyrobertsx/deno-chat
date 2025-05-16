@@ -2,7 +2,9 @@
 
 ## Make sure you have deno installed!
 
-`asdf plugin add deno` `asdf install`
+`asdf plugin add deno`
+
+`asdf install`
 
 ## List Deno Tasks
 
