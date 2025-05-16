@@ -1,79 +1,13 @@
-# Nuxt Minimal Starter
+# Deno Chatbot
 
-Look at the
-[Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to
-learn more.
+## Make sure you have deno installed!
 
-## Setup
+`asdf plugin add deno` `asdf install`
 
-Make sure to install dependencies:
+## List Deno Tasks
 
-```bash
-# npm
-npm install
+`deno task`
 
-# pnpm
-pnpm install
+## Run Deno Server
 
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the
-[deployment documentation](https://nuxt.com/docs/getting-started/deployment) for
-more information.
+`deno task dev`
